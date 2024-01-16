@@ -1,0 +1,16 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.col {
+	max-width: 100%;
+	min-height: 1vh;
+	padding: 0;
+	margin: 0;
+}
+
+.btn-group {
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
