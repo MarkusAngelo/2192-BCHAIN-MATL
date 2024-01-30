@@ -1,0 +1,25 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+li{
+	text-align: left;
+}
+
+.correct {
+	color: green;
+}
+
+.wrong {
+	color: red;
+}
+
+.show{
+	display: block;
+}
+
+.hide {
+	display: none;
+}
