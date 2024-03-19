@@ -42,7 +42,7 @@ contract MyFinalsActivity2{
     }
 
     function destroy() external {
-      
+       emit EtherSent(owner, remainingEth);
         selfdestruct(payable(msg.sender));
           
     }
